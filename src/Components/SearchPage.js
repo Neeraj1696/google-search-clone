@@ -99,6 +99,7 @@ function SearchPage() {
               </a>
               <p className="searchPage-resultDescription">{item.snippet}</p>
               <hr />
+              <hr />
             </div>
           ))}
         </div>
